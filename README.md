@@ -24,13 +24,13 @@ I'm **Saurav Singh**, a **Software Engineer** , passionate about Web development
 
 </p>
  
-<p align="left">
+<!--<p align="left">
 
   <img src ="https://github-readme-stats.vercel.app/api?username=Sauravsingh111&layout=compact&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravsingh111&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=">
 
-</p>
+</p>-->
  
 <!--
 
